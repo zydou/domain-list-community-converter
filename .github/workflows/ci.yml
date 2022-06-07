@@ -1,0 +1,55 @@
+name: CI
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.9
+
+      - name: Install requirements
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+          python -m pip install ruamel.yaml
+
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Checkout v2fly/domain-list-community
+        uses: actions/checkout@v3
+        with:
+          repository: v2fly/domain-list-community
+          ref: master
+          path: domain-list-community
+
+      - name: Customizations
+        run: |
+          # remove `github` from `microsoft`
+          cp domain-list-community/data/microsoft domain-list-community/data/microsoft-without-github
+          sed -i '/include:github/d' domain-list-community/data/microsoft-without-github
+
+      - name: Convert to clash rulesets
+        run: |
+          python3 clash.py
+
+      - name: Git push assets to "clash" branch
+        env:
+          BRANCH: clash
+        run: |
+          cd clash || exit 1
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config http.postBuffer 524288000
+          git config https.postBuffer 524288000
+          git config core.compression -1
+          git add .
+          git commit -m "Released on $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+          git push --force --quiet "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" HEAD:$BRANCH
