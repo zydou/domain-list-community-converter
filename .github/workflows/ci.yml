@@ -35,15 +35,47 @@ jobs:
           cp domain-list-community/data/microsoft domain-list-community/data/microsoft-without-github
           sed -i '/include:github/d' domain-list-community/data/microsoft-without-github
 
-      - name: Convert to clash rulesets
+      - name: Convert
         run: |
           python3 clash.py
+          python3 surge-domain-set.py
+          python3 surge-rule-set.py
 
-      - name: Git push assets to "clash" branch
+      - name: Git push assets to corresponding branch
         env:
           BRANCH: clash
         run: |
-          cd clash || exit 1
+          cd $BRANCH || exit 1
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config http.postBuffer 524288000
+          git config https.postBuffer 524288000
+          git config core.compression -1
+          git add .
+          git commit -m "Released on $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+          git push --force --quiet "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" HEAD:$BRANCH
+
+      - name: Git push assets to corresponding branch
+        env:
+          BRANCH: surge-domain-set
+        run: |
+          cd $BRANCH || exit 1
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config http.postBuffer 524288000
+          git config https.postBuffer 524288000
+          git config core.compression -1
+          git add .
+          git commit -m "Released on $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+          git push --force --quiet "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" HEAD:$BRANCH
+
+      - name: Git push assets to corresponding branch
+        env:
+          BRANCH: surge-rule-set
+        run: |
+          cd $BRANCH || exit 1
           git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
