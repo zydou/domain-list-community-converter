@@ -2,7 +2,7 @@
 
 本项目用于将 v2ray 官方社区维护的各域名列表[@v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)转换成以下规则集 (RULE-SET), 使用 GitHub Actions 每日自动构建，保证规则最新。
 
-- [Clash](https://github.com/Dreamacro/clash): RULE-SET ([domain type](https://lancellc.gitbook.io/clash/clash-config-file/rule-provider))
+- [Clash](https://github.com/Dreamacro/clash): RULE-SET ([behavior: domain](https://lancellc.gitbook.io/clash/clash-config-file/rule-provider#behavior))
 - [Surge](https://manual.nssurge.com/rule/domain-based.html): DOMAIN-SET
 - [Surge](https://manual.nssurge.com/rule/ruleset.html): RULE-SET
 - [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118): DOMAIN-SET
