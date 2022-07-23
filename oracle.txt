@@ -1,0 +1,17 @@
+.oracle
+.oracle.com
+.oraclecloud.com
+.oraclefoundation.org
+.oracleimg.com
+.oracleinfinity.io
+.ateam-oracle.com
+.bronto.com
+.covid19-rx.org
+.covid19rx.org
+.sun.com
+.addthis.com
+.addthiscdn.com
+.addthisedge.com
+.java
+.java.com
+.java.net

@@ -1,0 +1,6 @@
+.dmm.co.jp
+.dmmrex.com
+.dmm.com
+.dmm-extension.com
+.dmmapis.com
+api-p.videomarket.jp

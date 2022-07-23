@@ -1,0 +1,2 @@
+.netlify.com
+.bitballoon.com

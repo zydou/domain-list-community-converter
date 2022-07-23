@@ -1,0 +1,6 @@
+apl-hamivideo.cdn.hinet.net
+hamivideo.hinet.net
+mobilelive-hamivideo.cdn.hinet.net
+scc.ott.hinet.net
+static-hamivideo.cdn.hinet.net
+weblive-hamivideo.cdn.hinet.net
