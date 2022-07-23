@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redd.it

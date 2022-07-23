@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,iad.apple.com
+DOMAIN-SUFFIX,qwapi.com

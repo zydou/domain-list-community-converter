@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,flutter.dev
+DOMAIN-SUFFIX,flutterapp.com

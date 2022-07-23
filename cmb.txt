@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,cignacmb.com
+DOMAIN-SUFFIX,cmb-leasing.com
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,cmbi.com.hk
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,cmbwinglungbank.com
+DOMAIN-SUFFIX,cmfchina.com

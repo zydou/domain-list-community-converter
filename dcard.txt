@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,dcard.cc
+DOMAIN-SUFFIX,dcard.io
+DOMAIN-SUFFIX,dcard.tw

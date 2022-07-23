@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,termux.com
+DOMAIN-SUFFIX,termux.org

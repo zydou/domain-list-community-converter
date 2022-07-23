@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,unionpay.com
+DOMAIN-SUFFIX,unionpayintl.com
+DOMAIN-SUFFIX,unionpaysecure.com

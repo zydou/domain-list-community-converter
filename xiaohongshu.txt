@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xiaohongshu.com

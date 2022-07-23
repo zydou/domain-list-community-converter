@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,ikea.cn
+DOMAIN-SUFFIX,ikea.com
+DOMAIN-SUFFIX,ikea.net
+DOMAIN-SUFFIX,ingka.com
+DOMAIN-SUFFIX,ingka.dev
+DOMAIN-SUFFIX,ingkacentres.com

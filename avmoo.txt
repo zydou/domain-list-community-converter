@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,avmoo.casa
+DOMAIN-SUFFIX,avmoo.com
+DOMAIN-SUFFIX,avmoo.cyou
+DOMAIN-SUFFIX,tellme.pw

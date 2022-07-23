@@ -1,0 +1,11 @@
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,bankofchina.com
+DOMAIN-SUFFIX,bocaviation.com
+DOMAIN-SUFFIX,boccfc.cn
+DOMAIN-SUFFIX,bocgi.com
+DOMAIN-SUFFIX,bocgins.com
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bocichina.com
+DOMAIN-SUFFIX,bocigroup.com
+DOMAIN-SUFFIX,bocim.com
+DOMAIN-SUFFIX,bocservices.com.cn

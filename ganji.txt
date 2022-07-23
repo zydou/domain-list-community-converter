@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,ganji.com
+DOMAIN-SUFFIX,ganjistatic1.com

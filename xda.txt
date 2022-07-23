@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,xda-developers.com
+DOMAIN-SUFFIX,xda-cdn.com

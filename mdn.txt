@@ -1,0 +1,4 @@
+DOMAIN,developer.mozilla.org
+DOMAIN,interactive-examples.mdn.mozilla.net
+DOMAIN,mdn.mozillademos.org
+DOMAIN,media.prod.mdn.mozit.cloud

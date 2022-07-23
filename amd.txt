@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,amdfanstore.com
+DOMAIN-SUFFIX,radeon.com

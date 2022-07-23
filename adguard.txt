@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,adguard-vpn.com
+DOMAIN-SUFFIX,adguard.com

@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,perl.org
+DOMAIN-SUFFIX,cpan.org
+DOMAIN-SUFFIX,metacpan.org

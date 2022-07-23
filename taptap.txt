@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,tapimg.com
+DOMAIN-SUFFIX,taptap.com

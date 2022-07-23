@@ -1,0 +1,10 @@
+DOMAIN-SUFFIX,dbank.com
+DOMAIN-SUFFIX,dbankcdn.com
+DOMAIN-SUFFIX,harmonyos.com
+DOMAIN-SUFFIX,hicloud.com
+DOMAIN-SUFFIX,hihonor.com
+DOMAIN-SUFFIX,honor.cn
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,huaweicloud.com
+DOMAIN-SUFFIX,vmall.com
+DOMAIN-SUFFIX,vmallres.com

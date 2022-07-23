@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmmrex.com
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm-extension.com
+DOMAIN-SUFFIX,dmmapis.com
+DOMAIN,api-p.videomarket.jp

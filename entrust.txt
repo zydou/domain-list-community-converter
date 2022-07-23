@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,entrust.net
+DOMAIN-SUFFIX,entrustdatacard.com
