@@ -1,0 +1,7 @@
+payload:
+  - '+.fastly-terrarium.com'
+  - '+.fastly.com'
+  - '+.fastly.net'
+  - '+.fastlylabs.com'
+  - '+.fastlylb.net'
+  - '+.zencdn.net'

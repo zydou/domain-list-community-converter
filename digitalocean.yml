@@ -1,0 +1,4 @@
+payload:
+  - '+.digitalocean.com'
+  - '+.digitaloceanspaces.com'
+  - '+.nginxconfig.io'

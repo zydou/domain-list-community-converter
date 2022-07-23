@@ -1,0 +1,20 @@
+payload:
+  - '+.bugzilla.org'
+  - '+.crates.io'
+  - '+.docs.rs'
+  - '+.extensionworkshop.com'
+  - '+.firefox.com'
+  - '+.firefoxusercontent.com'
+  - '+.getpocket.com'
+  - '+.mozilla.com'
+  - '+.mozilla.community'
+  - '+.mozilla.net'
+  - '+.mozilla.org'
+  - '+.rust-lang.org'
+  - '+.rustup.rs'
+  - '+.seamonkey-project.org'
+  - '+.thunderbird.net'
+  - developer.mozilla.org
+  - interactive-examples.mdn.mozilla.net
+  - mdn.mozillademos.org
+  - media.prod.mdn.mozit.cloud
