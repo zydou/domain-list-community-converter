@@ -1,24 +1,17 @@
+---
 name: CI
+
 on:
   schedule:
     - cron: "0 16 * * *"
   push:
     branches:
       - master
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Set up Python 3.9
-        uses: actions/setup-python@v3
-        with:
-          python-version: 3.9
-
-      - name: Install requirements
-        run: |
-          python -m pip install --upgrade pip setuptools wheel
-          python -m pip install ruamel.yaml
-
       - name: Checkout
         uses: actions/checkout@v3
 
@@ -37,9 +30,7 @@ jobs:
 
       - name: Convert
         run: |
-          python3 clash.py
-          python3 surge-domain-set.py
-          python3 surge-rule-set.py
+          python3 convert.py
 
       - name: Git push assets to corresponding branch
         env:
@@ -74,7 +65,7 @@ jobs:
       - name: Git push assets to corresponding branch
         env:
           BRANCH: surge-rule-set
-        run: |
+        run: |-
           cd $BRANCH || exit 1
           git init
           git config user.name "github-actions[bot]"
