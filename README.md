@@ -8,6 +8,8 @@
 - [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118): DOMAIN-SET
 - [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118): RULE-SET
 
+此外，对于具有属性的域名（如@cn, @ads），还会额外生成对应的域名列表，以便于用户自行使用。例如对于`apple`服务，在生成`apple.yml`的同时，还会额外生成`apple@ads.yml`和`apple@cn.yml`。
+
 ## 使用说明
 
 ### **Clash**
@@ -60,7 +62,7 @@ rules:
 ```
 
 - 以上配置中，除了 `DIRECT` 和 `REJECT` 是默认存在于 Clash 中的 policy（路由策略/流量处理策略），其余均为自定义 policy，对应配置文件中 proxies 或 proxy-groups 中的 name。如你直接使用上面的 rules 规则，则需要在 proxies 或 proxy-groups 中手动配置一个 name 为 PROXY 的 policy。
-- 如你希望添加更多域名列表，可以[点击此处](https://github.com/zydou/domain-list-community-converter/tree/clash)查询所有列表并添加到`rule-providers`字段中，然后在`rules`字段中添加规则，格式为 `RULE-SET,name,policy`，其中 `name` 和 `policy` 可以自定义。
+- 如你希望添加更多域名列表，可以[点击此处](https://github.com/zydou/domain-list-community-converter/blob/clash/README.md)查询所有列表并添加到`rule-providers`字段中，然后在`rules`字段中添加规则，格式为 `RULE-SET,name,policy`，其中 `name` 和 `policy` 可以自定义。
 
 更多关于 Clash Premium 使用方式，请查看[官方文档](https://github.com/Dreamacro/clash/wiki/premium-core-features) 或 [Lancellc's GitBook](https://lancellc.gitbook.io/clash/)。
 
@@ -99,8 +101,8 @@ RULE-SET,https://raw.githubusercontent.com/zydou/domain-list-community-converter
 ```
 
 - 以上配置中，除了 `DIRECT` 和 `REJECT` 是默认存在于 Surge 中的 policy（路由策略/流量处理策略），其余均为自定义 policy，对应配置文件中 `[Proxy]` 或 `[Proxy Group]` 中的代理名称。如你直接使用上面的 `[Rule]` 规则，则需要在 `[Proxy]` 或 `[Proxy Group]` 中手动配置一个名为 `PROXY` 的 policy。
-- 如你希望添加更多**DOMAIN-SET**域名列表，可以[点击此处](https://github.com/zydou/domain-list-community-converter/tree/surge-domain-set)查询所有列表，并在`[Rule]`字段中添加规则，格式为 `DOMAIN-SET,https://raw.githubusercontent.com/zydou/domain-list-community-converter/surge-domain-set/name.txt,policy`，其中 `name` 和 `policy` 可以自定义。
-- 如你希望添加更多**RULE-SET**域名列表，可以[点击此处](https://github.com/zydou/domain-list-community-converter/tree/surge-rule-set)查询所有列表，并在`[Rule]`字段中添加规则，格式为 `RULE-SET,https://raw.githubusercontent.com/zydou/domain-list-community-converter/surge-rule-set/name.txt,policy`，其中 `name` 和 `policy` 可以自定义。
+- 如你希望添加更多**DOMAIN-SET**域名列表，可以[点击此处](https://github.com/zydou/domain-list-community-converter/blob/surge-domain-set/README.md)查询所有列表，并在`[Rule]`字段中添加规则，格式为 `DOMAIN-SET,https://raw.githubusercontent.com/zydou/domain-list-community-converter/surge-domain-set/name.txt,policy`，其中 `name` 和 `policy` 可以自定义。
+- 如你希望添加更多**RULE-SET**域名列表，可以[点击此处](https://github.com/zydou/domain-list-community-converter/blob/surge-rule-set/README.md)查询所有列表，并在`[Rule]`字段中添加规则，格式为 `RULE-SET,https://raw.githubusercontent.com/zydou/domain-list-community-converter/surge-rule-set/name.txt,policy`，其中 `name` 和 `policy` 可以自定义。
 
 更多关于 Surge 使用方式，请查看[官方文档](https://manual.nssurge.com/)。
 
