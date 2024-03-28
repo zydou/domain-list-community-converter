@@ -1,0 +1,11 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/kuaishou
+payload:
+  - '+.gifshow.com'
+  - '+.ksapisrv.com'
+  - '+.kuaishou.com'
+  - '+.yximgs.com'
+  - '+.kwaizt.com'
+  - '+.kuaishouzt.com'
+  - log-sdk.gifshow.com
+  - wlog.kuaishou.com

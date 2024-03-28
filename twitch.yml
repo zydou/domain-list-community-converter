@@ -1,0 +1,9 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/twitch
+payload:
+  - '+.ext-twitch.tv'
+  - '+.jtvnw.net'
+  - '+.ttvnw.net'
+  - '+.twitch.tv'
+  - '+.twitchcdn.net'
+  - '+.twitchsvc.net'

@@ -1,0 +1,9 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/reddit
+payload:
+  - '+.reddit.app.link'
+  - '+.reddit.com'
+  - '+.redditstatic.com'
+  - '+.redditmail.com'
+  - '+.redditmedia.com'
+  - '+.redd.it'

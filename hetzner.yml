@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/hetzner
+payload:
+  - '+.hetzner.cloud'
+  - '+.hetzner.com'
+  - '+.hetzner.de'
+  - '+.your-server.de'
