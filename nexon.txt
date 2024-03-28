@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,nexon.co.jp
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,nexoncdn.co.kr

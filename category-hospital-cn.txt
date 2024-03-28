@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,fuwai.com
+DOMAIN-SUFFIX,pkuh6.cn
+DOMAIN-SUFFIX,puh3.net.cn
+DOMAIN,hospital.pku.edu.cn
+DOMAIN,ss.bjmu.edu.cn

@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,go2map.com
+DOMAIN-SUFFIX,sogo.com
+DOMAIN-SUFFIX,sogou.com
+DOMAIN-SUFFIX,sogoucdn.com

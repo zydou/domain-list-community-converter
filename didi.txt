@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,didi-food.com
+DOMAIN-SUFFIX,didiaustralia.blog
+DOMAIN-SUFFIX,didichuxing.com
+DOMAIN-SUFFIX,didiglobal.com
+DOMAIN-SUFFIX,didimobility.co.jp
+DOMAIN-SUFFIX,didistatic.com
+DOMAIN-SUFFIX,xiaojukeji.com
