@@ -1,0 +1,10 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/snap
+payload:
+  - '+.snapads.com'
+  - '+.sc-cdn.net'
+  - '+.snap-dev.net'
+  - '+.snap.com'
+  - '+.snapchat.com'
+  - '+.snapkit.co'
+  - impala-media-production.s3.amazonaws.com

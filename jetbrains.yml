@@ -1,0 +1,15 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/jetbrains
+payload:
+  - '+.intellij.com'
+  - '+.intellij.net'
+  - '+.intellij.org'
+  - '+.jetbrains.com'
+  - '+.jetbrains.net'
+  - '+.jetbrains.space'
+  - '+.jetbrains.team'
+  - '+.datalore.io'
+  - '+.kotlinlang.org'
+  - '+.cdn.jetbrains.com'
+  - '+.download-cdn.jetbrains.com.cn'
+  - '+.jb.gg'
