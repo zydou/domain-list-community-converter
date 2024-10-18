@@ -1,0 +1,8 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/protonmail
+payload:
+  - '+.pm.me'
+  - '+.proton.me'
+  - '+.protonmail.ch'
+  - '+.protonmail.com'
+  - '+.protonstatus.com'

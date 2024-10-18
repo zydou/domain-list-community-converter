@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/qweather
+payload:
+  - '+.hecdn.net'
+  - '+.heweather.net'
+  - '+.qweather.com'
+  - '+.qweather.net'

@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/jsdelivr
+payload:
+  - '+.jsdelivr.com'
+  - '+.jsdelivr.net'
+  - '+.esm.run'
+  - cdn.jsdelivr.net
