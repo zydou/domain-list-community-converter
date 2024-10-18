@@ -1,0 +1,13 @@
+DOMAIN-SUFFIX,playcover.io
+DOMAIN-SUFFIX,playcover.workers.dev
+DOMAIN-SUFFIX,fflogs.com
+DOMAIN-SUFFIX,rpglogs.com
+DOMAIN-SUFFIX,rpglogs.cn
+DOMAIN-SUFFIX,bluestacks.com
+DOMAIN-SUFFIX,lsplayer.com
+DOMAIN-SUFFIX,yeshen.com
+DOMAIN-SUFFIX,maa.plus
+DOMAIN-SUFFIX,prts.plus
+DOMAIN-SUFFIX,heavenlywind.cc
+DOMAIN-SUFFIX,poi.moe
+DOMAIN-SUFFIX,steampp.net
