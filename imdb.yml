@@ -1,0 +1,8 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/imdb
+payload:
+  - '+.imdb'
+  - '+.boxofficemojo.com'
+  - '+.imdb.com'
+  - '+.imdb.to'
+  - '+.media-imdb.com'

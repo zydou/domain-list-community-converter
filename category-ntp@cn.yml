@@ -1,0 +1,9 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/category-ntp
+payload:
+  - time.izatcloud.net
+  - time.xtracloud.net
+  - '+.cn.pool.ntp.org'
+  - '+.ntp.neu.edu.cn'
+  - '+.ntp.ntsc.ac.cn'
+  - '+.ntp.org.cn'

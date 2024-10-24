@@ -1,0 +1,8 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/hotstar
+payload:
+  - '+.hotstar.com'
+  - '+.hotstar-cdn.net'
+  - '+.hotstar-labs.com'
+  - '+.hotstarext.com'
+  - '+.hsprepack.akamaized.net'

@@ -1,0 +1,6 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/docker
+payload:
+  - '+.compose-spec.io'
+  - '+.docker.com'
+  - '+.docker.io'
