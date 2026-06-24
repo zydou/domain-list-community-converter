@@ -2,7 +2,10 @@
 # -*- coding: utf-8 -*-
 """Convert domain-list-community to clash and surge rules."""
 
+import os
+import subprocess
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 
@@ -161,6 +164,28 @@ def write_surge_rule_set(outroot: Path, category: str, rules: list, attrs: dict)
         save_to_disk(outpath, rule_list)
 
 
+def generate_mrs(clash_root: Path) -> None:
+    """Generate mrs rules."""
+    mihomo = Path("~/.local/bin/mihomo").expanduser().as_posix()
+    yml_files = sorted(clash_root.rglob("*.yml"))
+    mrs_root = clash_root.with_name("mrs")
+    mrs_root.mkdir(parents=True, exist_ok=True)
+    def convert_file(yml: Path) -> None:
+        yml_path = yml.resolve().as_posix()
+        mrs_path = mrs_root / f"{yml.stem}.mrs"
+        try:
+            command = [mihomo, "convert-ruleset", "domain", "yaml", yml_path, mrs_path]
+            subprocess.run(command, check=True, capture_output=True, text=True)  # noqa: S603
+        except subprocess.CalledProcessError as e:
+            print(f"Failed to convert {yml_path}: {e.stderr}")
+            raise
+
+    max_workers = min(32, (os.cpu_count() or 4) * 2)
+    print(f"Using {max_workers} workers")
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        executor.map(convert_file, yml_files)
+
+
 def main() -> None:
     """Entry point."""
     root = Path("domain-list-community/data")
@@ -178,6 +203,7 @@ def main() -> None:
     save_metainfo(clash_root, num_header_lines=3)
     save_metainfo(surge_domain_set_root)
     save_metainfo(surge_rule_set_root)
+    generate_mrs(clash_root)
 
 
 if __name__ == "__main__":
