@@ -1,0 +1,44 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/google-deepmind
+payload:
+  - '+.deepmind.com'
+  - '+.deepmind.google'
+  - '+.geller-pa.googleapis.com'
+  - '+.generativelanguage.googleapis.com'
+  - '+.proactivebackend-pa.googleapis.com'
+  - '+.robinfrontend-pa.googleapis.com'
+  - ai.google.dev
+  - alkalicore-pa.clients6.google.com
+  - alkalimakersuite-pa.clients6.google.com
+  - webchannel-alkalimakersuite-pa.clients6.google.com
+  - '+.generativeai.google'
+  - '+.makersuite.google.com'
+  - '+.ai.studio'
+  - '+.aistudio.google.com'
+  - '+.bard.google.com'
+  - '+.gemini.google'
+  - '+.gemini.google.com'
+  - '+.gemini.gstatic.com'
+  - cloudaicompanion.googleapis.com
+  - cloudcode-pa.googleapis.com
+  - daily-cloudcode-pa.googleapis.com
+  - notebooklm-pa.googleapis.com
+  - notebooklm.googleapis.com
+  - '+.notebook.google.com'
+  - '+.notebooklm.google'
+  - '+.notebooklm.google.com'
+  - '+.jules.google'
+  - '+.jules.google.com'
+  - '+.labs.google'
+  - '+.labs.google.com'
+  - '+.flow.google'
+  - '+.aisandbox-pa.googleapis.com'
+  - '+.aicode.googleapis.com'
+  - '+.aida.googleapis.com'
+  - '+.opal.google'
+  - '+.opal.google.com'
+  - antigravity-pa.googleapis.com
+  - antigravity.googleapis.com
+  - '+.antigravity.google'
+  - '+.antigravity-unleash.goog'
+  - '+.stitch.withgoogle.com'

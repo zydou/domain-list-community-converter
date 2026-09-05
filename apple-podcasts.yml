@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/apple-podcasts
+payload:
+  - '+.applepodcasts.com'
+  - '+.podcasts.apple.com'
+  - amp-api.podcasts.apple.com
+  - podcasts.apple.com

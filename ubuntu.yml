@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/ubuntu
+payload:
+  - '+.ubuntu.com'
+  - '+.ubuntu.net'
+  - '+.ubuntuforums.org'
+  - '+.ubuntu-touch.io'

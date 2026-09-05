@@ -1,0 +1,30 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/connectivity-check
+payload:
+  - '+.captive.apple.com'
+  - ping.archlinux.org
+  - redirect.archlinux.org
+  - '+.cp.cloudflare.com'
+  - '+.network-test.debian.org'
+  - '+.detectportal.firefox.com'
+  - nmcheck.gnome.org
+  - connectivitycheck.gstatic.com
+  - www.gstatic.com
+  - connectivitycheck.platform.hihonorcloud.com
+  - connectivitycheck.platform.hicloud.com
+  - networkcheck.kde.org
+  - '+.kuketz.de'
+  - edge-http.microsoft.com
+  - connect.rom.miui.com
+  - conn1.oppomobile.com
+  - conn2.oppomobile.com
+  - www.qualcomm.cn
+  - www.qualcomm.com
+  - connectivity.samsung.com.cn
+  - '+.ipv6check-http.steamserver.net'
+  - '+.ipv6check-udp.steamserver.net'
+  - '+.test.steampowered.com'
+  - connectivity-check.ubuntu.com
+  - wifi.vivo.com.cn
+  - '+.msftconnecttest.com'
+  - '+.msftncsi.com'

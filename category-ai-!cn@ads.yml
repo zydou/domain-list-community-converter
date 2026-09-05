@@ -1,0 +1,8 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/category-ai-!cn
+payload:
+  - copilot-telemetry-service.githubusercontent.com
+  - copilot-telemetry.githubusercontent.com
+  - browser-intake-datadoghq.com
+  - o33249.ingest.sentry.io
+  - openai.qualtrics.com
