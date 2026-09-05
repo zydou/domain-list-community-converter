@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,include:kurogames
+DOMAIN-SUFFIX,include:xd

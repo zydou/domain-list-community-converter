@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,include:boc
+DOMAIN-SUFFIX,include:ccb
+DOMAIN-SUFFIX,include:citic
+DOMAIN-SUFFIX,include:cmb
+DOMAIN-SUFFIX,include:icbc
