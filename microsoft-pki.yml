@@ -1,0 +1,9 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/microsoft-pki
+payload:
+  - '+.msocsp.com'
+  - crl.microsoft.com
+  - mscrl.microsoft.com
+  - ocsp.microsoft.com
+  - oneocsp.microsoft.com
+  - www.microsoft.com

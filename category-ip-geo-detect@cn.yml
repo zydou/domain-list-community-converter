@@ -1,0 +1,8 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/category-ip-geo-detect
+payload:
+  - '+.ipify.cn'
+  - '+.iplark.com'
+  - '+.ipw.cn'
+  - '+.testipv6.cn'
+  - '+.whois.pconline.com.cn'

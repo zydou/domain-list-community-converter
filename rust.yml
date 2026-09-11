@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/rust
+payload:
+  - '+.rust-lang.org'
+  - '+.rustup.rs'
+  - '+.crates.io'
+  - '+.docs.rs'
