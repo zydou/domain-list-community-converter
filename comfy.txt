@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,oystermercury.top
+DOMAIN-SUFFIX,comfy.org
+DOMAIN-SUFFIX,comfyci.org
+DOMAIN-SUFFIX,comfyregistry.org
