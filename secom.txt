@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,secom.co.jp
+DOMAIN-SUFFIX,secomtrust.net
+DOMAIN-SUFFIX,managedpki.ne.jp
