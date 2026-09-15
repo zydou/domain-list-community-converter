@@ -1,0 +1,9 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/category-entertainment-cn
+payload:
+  - '+.include:kurogames'
+  - '+.include:xd'
+  - '+.include:bilibili'
+  - '+.include:iqiyi'
+  - '+.include:youku'
+  - '+.include:yuewen'

@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/tex
+payload:
+  - '+.ctan.org'
+  - '+.latex-project.org'
+  - '+.miktex.org'
+  - '+.tug.org'

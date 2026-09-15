@@ -1,0 +1,13 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/mindbox
+payload:
+  - '+.e.mindbox.ru'
+  - '+.g.mindbox.ru'
+  - '+.s.mindbox.ru'
+  - api-js.mindbox.ru
+  - api-ru.mindbox.cloud
+  - api-staging.mindbox.ru
+  - api.mindbox.cloud
+  - api.mindbox.ru
+  - sentry.mindbox.ru
+  - sentry.popmechanic.ru
