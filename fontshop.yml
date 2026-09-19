@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/fontshop
+payload:
+  - '+.fontbook.com'
+  - '+.fontshop.com'
+  - '+.fstopimages.com'
+  - fontshop-prod-responsive-images.s3.amazonaws.com

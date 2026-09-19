@@ -1,0 +1,10 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/microsoft-without-github
+payload:
+  - '+.bingads.com'
+  - '+.browser.events.data.msn.cn'
+  - '+.browser.events.data.msn.com'
+  - '+.clarity.ms'
+  - '+.microsoftads.com'
+  - '+.msads.net'
+  - '+.nelreports.net'
