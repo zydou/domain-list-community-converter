@@ -1,0 +1,20 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/thelinuxfoundation
+payload:
+  - '+.kernel.org'
+  - '+.linux.org'
+  - '+.amp.dev'
+  - '+.ampproject.com'
+  - '+.ampproject.net'
+  - '+.ampproject.org'
+  - cdn.ampproject.org
+  - amp.akamaized.net
+  - '+.electronjs.org'
+  - '+.jquery.com'
+  - '+.jquerymobile.com'
+  - '+.jqueryui.com'
+  - '+.mochajs.org'
+  - '+.nodejs.org'
+  - '+.openjsf.org'
+  - '+.lfai.foundation'
+  - '+.linuxfoundation.org'
