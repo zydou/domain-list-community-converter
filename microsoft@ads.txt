@@ -1,0 +1,10 @@
+.bingads.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+.collector.github.com
+.browser.events.data.msn.cn
+.browser.events.data.msn.com
+.clarity.ms
+.microsoftads.com
+.msads.net
+.nelreports.net
