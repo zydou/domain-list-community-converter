@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/mozilla
+payload:
+  - ads-img.mozilla.org
+  - ads.mozilla.org
+  - incoming.telemetry.mozilla.org
+  - incoming-telemetry.thunderbird.net
