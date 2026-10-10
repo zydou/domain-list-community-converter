@@ -1,0 +1,11 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/signal
+payload:
+  - '+.signal.art'
+  - '+.signal.group'
+  - '+.signal.link'
+  - '+.signal.me'
+  - '+.signal.tube'
+  - '+.signal.org'
+  - '+.signalusers.org'
+  - '+.whispersystems.org'

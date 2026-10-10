@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/sourceforge
+payload:
+  - '+.sourceforge.com'
+  - '+.sourceforge.net'
+  - '+.sf.net'
+  - '+.fsdn.com'

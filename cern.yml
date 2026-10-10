@@ -1,0 +1,10 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/cern
+payload:
+  - '+.cern'
+  - '+.ams02.space'
+  - '+.cern.ch'
+  - '+.cixp.net'
+  - '+.dotcernpilot.info'
+  - '+.ippog.org'
+  - '+.linearcollider.org'
