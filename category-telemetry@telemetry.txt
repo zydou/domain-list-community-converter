@@ -1,0 +1,11 @@
+.include:github
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+.cafe.github.com
+.collector.github.com
+.include:github-copilot
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+.include:mozilla
+incoming.telemetry.mozilla.org
+incoming-telemetry.thunderbird.net
