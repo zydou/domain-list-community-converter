@@ -1,0 +1,8 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/kontur
+payload:
+  - '+.kontur.ru'
+  - '+.kontur.host'
+  - '+.kontur-inc.com'
+  - metrika.kontur.ru
+  - sentry.kontur.host

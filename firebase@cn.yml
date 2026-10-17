@@ -1,0 +1,6 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/firebase
+payload:
+  - crashlyticsreports-pa.googleapis.com
+  - firebase-settings.crashlytics.com
+  - update.crashlytics.com
