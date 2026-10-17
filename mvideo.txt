@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,acmvid.com
+DOMAIN-SUFFIX,mvideo.ru
+DOMAIN,mvideo.edna.io
