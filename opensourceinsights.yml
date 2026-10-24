@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/opensourceinsights
+payload:
+  - '+.deps.dev'
+  - '+.deps.info'
+  - '+.opensourceinsight.dev'
+  - '+.opensourceinsights.dev'
