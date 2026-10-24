@@ -1,0 +1,2 @@
+.include:kurogames
+.include:xd
