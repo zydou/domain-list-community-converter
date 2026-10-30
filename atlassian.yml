@@ -1,0 +1,14 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/atlassian
+payload:
+  - '+.trello.com'
+  - '+.trellocdn.com'
+  - '+.atl-paas.net'
+  - '+.atlassian-dev.net'
+  - '+.atlassian.com'
+  - '+.atlassian.net'
+  - '+.bitbucket.io'
+  - '+.bitbucket.org'
+  - '+.jira.com'
+  - '+.ss-inf.net'
+  - '+.statuspage.io'

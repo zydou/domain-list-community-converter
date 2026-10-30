@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/openspeedtest
+payload:
+  - '+.open.cachefly.net'
+  - '+.openspeedtest.com'
+  - '+.openspeedtest.in'
+  - '+.openspeedtest.org'
