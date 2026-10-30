@@ -1,0 +1,4 @@
+.click.hunantv.com
+.da.hunantv.com
+.da.mgtv.com
+.res.hunantv.com

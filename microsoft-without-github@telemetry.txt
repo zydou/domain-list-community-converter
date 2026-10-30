@@ -1,0 +1,13 @@
+.in.applicationinsights.azure.com
+dc.applicationinsights.azure.com
+live.applicationinsights.azure.com
+dc.services.visualstudio.com
+rt.services.visualstudio.com
+.browser.events.data.msn.cn
+.browser.events.data.msn.com
+.applicationinsights.io
+.applicationinsights.net
+.aria.ms
+.data.microsoft.com
+.telemetry.microsoft.com
+.nelreports.net
