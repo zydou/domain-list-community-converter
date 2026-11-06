@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/lastfm
+payload:
+  - '+.last.fm'
+  - lastfm.freetls.fastly.net
+  - lastfm-img.freetls.fastly.net
+  - ws.audioscrobbler.com

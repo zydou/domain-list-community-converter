@@ -1,0 +1,8 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/alphabet
+payload:
+  - crashlyticsreports-pa.googleapis.com
+  - firebase-settings.crashlytics.com
+  - firebaselogging-pa.googleapis.com
+  - firebaselogging.googleapis.com
+  - update.crashlytics.com

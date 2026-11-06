@@ -1,0 +1,6 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/category-games
+payload:
+  - '+.include:kurogames'
+  - '+.include:tencent-games'
+  - '+.include:xd'

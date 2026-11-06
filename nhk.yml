@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/nhk
+payload:
+  - '+.nhk'
+  - '+.nhk.jp'
+  - '+.nhk.or.jp'
+  - '+.nhkworld.jp'

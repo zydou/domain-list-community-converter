@@ -1,0 +1,13 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/qiniu
+payload:
+  - '+.staticfile.net'
+  - '+.staticfile.org'
+  - '+.qbox.me'
+  - '+.qiniu.com'
+  - '+.qiniucdn.com'
+  - '+.qiniudn.com'
+  - '+.qiniudns.com'
+  - '+.qiniup.com'
+  - '+.qnsdk.com'
+  - '+.qnssl.com'

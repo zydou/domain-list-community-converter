@@ -1,0 +1,9 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/amp
+payload:
+  - '+.amp.dev'
+  - '+.ampproject.com'
+  - '+.ampproject.net'
+  - '+.ampproject.org'
+  - cdn.ampproject.org
+  - amp.akamaized.net
