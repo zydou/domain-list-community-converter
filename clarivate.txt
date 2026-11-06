@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,newisiknowledge.com
+DOMAIN-SUFFIX,isiknowledge.com
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,webofscience.com
