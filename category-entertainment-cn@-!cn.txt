@@ -1,0 +1,7 @@
+.include:kurogames
+.include:tencent-games
+.include:xd
+.include:bilibili
+.include:iqiyi
+.include:youku
+.include:yuewen
