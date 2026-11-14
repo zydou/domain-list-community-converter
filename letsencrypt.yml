@@ -1,0 +1,6 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/letsencrypt
+payload:
+  - '+.lencr.org'
+  - '+.letsencrypt.com'
+  - '+.letsencrypt.org'

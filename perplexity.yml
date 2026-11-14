@@ -1,0 +1,8 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/perplexity
+payload:
+  - '+.perplexity.ai'
+  - '+.perplexity.com'
+  - '+.pplx.ai'
+  - ppl-ai-file-upload.s3.amazonaws.com
+  - pplx-res.cloudinary.com

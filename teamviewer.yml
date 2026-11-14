@@ -1,0 +1,8 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/teamviewer
+payload:
+  - '+.teamviewer.cn'
+  - '+.teamviewer.com'
+  - '+.teamviewer.us'
+  - client-teamviewer-com.trafficmanager.net
+  - teamviewer.com.cdn.cloudflare.net
