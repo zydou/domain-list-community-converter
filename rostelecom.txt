@@ -1,0 +1,9 @@
+.restream-media.net
+.restream.ru
+.more.tv
+.wink.am
+.wink.ru
+.azbukainterneta.ru
+.rostelecom.ru
+.rt.ru
+sentry.iptv.rt.ru

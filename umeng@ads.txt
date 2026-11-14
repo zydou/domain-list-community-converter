@@ -1,0 +1,13 @@
+.aaid.umeng.com
+.ar.umeng.com
+.aspect-upush.umeng.com
+.audid.umeng.com
+.ccs.umeng.com
+.log.umtrack.com
+.new-aaid.umeng.com
+.new-aaid.umeng.com.gds.alibabadns.com
+.oc.umeng.com
+.resolve.umeng.com
+.utoken.umeng.com
+.w.cnzz.com
+.z.gds.cnzz.com
