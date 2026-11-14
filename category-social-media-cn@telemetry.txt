@@ -1,0 +1,8 @@
+DOMAIN-SUFFIX,beacon.sina.com.cn
+DOMAIN-SUFFIX,log.sina.cn
+DOMAIN-SUFFIX,log2.sina.cn
+DOMAIN-SUFFIX,sbeacon.sina.com.cn
+DOMAIN-SUFFIX,slog.sina.cn
+DOMAIN-SUFFIX,slog.sina.com.cn
+DOMAIN-SUFFIX,crash2.zhihu.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
