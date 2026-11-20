@@ -1,0 +1,11 @@
+.ad.api.3g.youku.com
+.ad.api.mobile.youku.com
+.ad.mobile.youku.com
+.atm.youku.com
+.ems.youku.com
+.guanggaoad.youku.com
+.mobilemsg.youku.com
+.msg.youku.com
+.pl.youku.com
+.yk-ssp.ad.youku.com
+.ykad-data.youku.com

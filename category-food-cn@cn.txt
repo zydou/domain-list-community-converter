@@ -1,0 +1,7 @@
+.include:mcdonalds
+.4008-517-517.cn
+.mcd.cn
+.mcdchina.net
+.mcdonalds.com.cn
+.include:starbucks
+.starbucks.com.cn

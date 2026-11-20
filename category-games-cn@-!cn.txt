@@ -1,0 +1,4 @@
+.include:hypergryph
+.include:kurogames
+.include:tencent-games
+.include:xd
