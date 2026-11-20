@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,include:hypergryph
+DOMAIN-SUFFIX,include:kurogames
+DOMAIN-SUFFIX,include:tencent-games
+DOMAIN-SUFFIX,include:xd

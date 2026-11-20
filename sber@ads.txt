@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,ads.sber.ru
+DOMAIN,visor.sberbank.ru
+DOMAIN-SUFFIX,neon.click
+DOMAIN-SUFFIX,sbermarketing.ru
