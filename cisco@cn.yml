@@ -1,0 +1,7 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/cisco
+payload:
+  - '+.webex.com.cn'
+  - '+.cisco.cn'
+  - '+.cisco.com.cn'
+  - '+.network-auth.cn'

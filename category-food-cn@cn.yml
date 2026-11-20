@@ -1,0 +1,10 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/category-food-cn
+payload:
+  - '+.include:mcdonalds'
+  - '+.4008-517-517.cn'
+  - '+.mcd.cn'
+  - '+.mcdchina.net'
+  - '+.mcdonalds.com.cn'
+  - '+.include:starbucks'
+  - '+.starbucks.com.cn'
