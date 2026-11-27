@@ -1,0 +1,5 @@
+---
+# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/anthropic
+payload:
+  - http-intake.logs.us5.datadoghq.com
+  - o1158394.ingest.us.sentry.io
