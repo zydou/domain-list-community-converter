@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,ads.sber.ru
+DOMAIN,visor.sberbank.ru
