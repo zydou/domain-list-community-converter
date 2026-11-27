@@ -1,0 +1,13 @@
+.a.market.xiaomi.com
+.ad.intl.xiaomi.com
+.ad.mi.com
+.ad.xiaomi.com
+.ad1.xiaomi.com
+.admob.xiaomi.com
+.adv.sec.intl.miui.com
+.adv.sec.miui.com
+.misc.in.duokanbox.com
+.tjqonline.cn
+.tracker.ai.xiaomi.com
+.tracker.xiaomixiaoai.com
+.tracking.miui.com

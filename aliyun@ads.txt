@@ -1,0 +1,7 @@
+.acjs.aliyun.com
+.alimama.alicdn.com
+.atanx.alicdn.com
+.atanx2.alicdn.com
+.baichuan-sdk.alicdn.com
+.nbsdk-baichuan.alicdn.com
+.tce.alicdn.com
